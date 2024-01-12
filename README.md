@@ -1,4 +1,4 @@
-# ROK-1718-Kingdom-data
+# ROK-Kingdom-data
 
 ### 0. 프로젝트 개요
 * 목표: 모바일 게임 Rise of kingdoms의 데이터기반의 조직 운영을 위한 지표설정, 수집, 전처리, 대시보드, 시각화
