@@ -23,13 +23,13 @@
 2023.1월 ~ 현재까지 총 5회의 kvk에 대한 데이터 기반 기여도 산출
 
 1. kvk 대시보드
- - <a href="https://lookerstudio.google.com/u/0/reporting/22d861df-6b39-47a3-a6ec-24a18f846b09/page/9juDD?s=rzTs5uTIfW0" target="_blank">lookerstudio를 활용한 기여도 대시보드(새 창 아님 주의)</a>
+ - <a href="https://lookerstudio.google.com/u/0/reporting/22d861df-6b39-47a3-a6ec-24a18f846b09/page/9juDD?s=rzTs5uTIfW0" target="_blank">lookerstudio를 활용한 기여도 대시보드(현재 페이지 열림 주의)</a>
 ![image](https://github.com/helperjby/Proejct-ROK-Kingdom-data/assets/69462995/ac8cf7fc-bd33-4ae2-84d5-5e5fc1d33d66)
 
- - [Tableau를 활용한 개인 kvk성적 대시보드(새 창 아님 주의)](https://public.tableau.com/app/profile/.73985057/viz/ROK1718kvkhistory/1_1?publish=yes)
+ - [Tableau를 활용한 개인 kvk성적 대시보드(현재 페이지 열림 주의)](https://public.tableau.com/app/profile/.73985057/viz/ROK1718kvkhistory/1_1?publish=yes)
 ![image](https://github.com/helperjby/Proejct-ROK-Kingdom-data/assets/69462995/3aab256c-3ea9-457b-aa30-a89324e776fa)
 
-2. [왕국 시각화 레포트(새 창 아님 주의)](https://helperjby.tistory.com/45)
+2. [왕국 시각화 레포트(현재 페이지 열림 주의)](https://helperjby.tistory.com/45)
 ![image](https://github.com/helperjby/Proejct-ROK-Kingdom-data/assets/69462995/d9797f3c-3f91-459a-83b9-92fcb6d0caea)
 
 
