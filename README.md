@@ -23,7 +23,7 @@
 2023.1월 ~ 현재까지 총 5회의 kvk에 대한 데이터 기반 기여도 산출
 
 1. kvk 대시보드
- - https://lookerstudio.google.com/u/0/reporting/22d861df-6b39-47a3-a6ec-24a18f846b09/page/9juDD?s=rzTs5uTIfW0
+ - <a href="https://lookerstudio.google.com/u/0/reporting/22d861df-6b39-47a3-a6ec-24a18f846b09/page/9juDD?s=rzTs5uTIfW0" target="_blank">lookerstudio를 활용한 기여도 대시보드</a>
  - https://public.tableau.com/app/profile/.73985057/viz/ROK1718kvkhistory/1_1?publish=yes
 2. 시각화 레포트 https://helperjby.tistory.com/45
 3. 전처리와 시각화.ipynb 파일
